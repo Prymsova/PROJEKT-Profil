@@ -87,14 +87,11 @@ h1 {
 
 .facebook a {
 	width: 125px;
-	border-top: 1px solid #3f464d;
 	border-right: 1px solid #3f464d;
 }
 
 .twitter a {
 	width: 125px;
-	border-top: 1px solid #3f464d;
-	border-left: 1px solid #3f464d;
 }
 
 .twitter:hover {
